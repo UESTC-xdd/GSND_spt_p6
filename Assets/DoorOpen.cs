@@ -4,38 +4,23 @@ using UnityEngine;
 
 public class DoorOpen : MonoBehaviour
 {
+    [SerializeField]
+    private Animator m_Anim;
 
-    bool doorClosed = true;
-   
-    Animator anim;
-    // Start is called before the first frame update
-    void Start()
+    private int Anim_DoorOpen;
+
+    private void Awake()
     {
-        anim= GetComponent<Animator>();
+        Anim_DoorOpen = Animator.StringToHash("DoorOpen");
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OpenDoor()
     {
-        
+        m_Anim.SetBool(Anim_DoorOpen, true);
     }
 
-    private void OnTriggerEnter(Collider other)
+    public void CloseDoor()
     {
-        if(other.gameObject.tag == "Player")
-        {
-            if (doorClosed)
-            {
-                anim.Play("DoorOpen");
-                doorClosed = false;
-               
-            }
-            else
-            {
-                anim.Play("DoorClose");
-                doorClosed = true;
-               
-            }
-        }
+        m_Anim.SetBool(Anim_DoorOpen, false);
     }
 }
