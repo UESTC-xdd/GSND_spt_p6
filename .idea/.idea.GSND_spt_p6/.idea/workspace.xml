@@ -1,9 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="78787686-07bf-428d-ab2b-23f9e56d2e88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Albedo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Albedo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Materials/Albedo.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Materials/Albedo.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Materials/Metalness.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Materials/Metalness.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Materials/TechLab_Base.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Materials/TechLab_Base.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Materials/TechLab_Walls_Trimsheet_1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Materials/TechLab_Walls_Trimsheet_1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Materials/Techlab_Walls_Trimsheet_2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Materials/Techlab_Walls_Trimsheet_2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Sci-fi_Container_Box.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Sci-fi_Container_Box.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Sci-fi_Container_Box.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Sci-fi_Container_Box.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/TechLab_Walls_Trimsheet_1_basecolor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/TechLab_Walls_Trimsheet_1_basecolor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/TechPipes_Scene.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/TechPipes_Scene.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/tilling_sample_DefaultMaterial_AlbedoTrans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/tilling_sample_DefaultMaterial_AlbedoTrans.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Materials/TechLab_Walls_Trimsheet_1_metallic.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Materials/TechLab_Walls_Trimsheet_1_metallic.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Materials/tilling_sample_DefaultMaterial_AlbedoTrans.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Materials/tilling_sample_DefaultMaterial_AlbedoTrans.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/GlobalNamespace.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UIElements.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/Unity.Profiling.Editor.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/Unity.UI.Builder.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.AdaptivePerformance.UI.Editor.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.Experimental.GraphView.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.Overlays.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.PackageManager.UI.Internal.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.Rendering.LookDev.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.Search.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.ShaderGraph.Drawing.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.ShortcutManagement.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.UIElements.Debugger.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.UIElements.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEngine.UIElements.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GSND_spt_p6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GSND_spt_p6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Window.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Window.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonPrototype/Materials/PolygonPrototype_Wire.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PolygonPrototype/Materials/PolygonPrototype_Wire.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GreyBox.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GreyBox.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SpaceShipScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SpaceShipScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +64,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Engine_door.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2XE1FmO2eEvpbKzBuFqaZU7V2Nl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,10 +81,59 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\sidsi\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\sidsi\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\sidsi\\AppData\\Local\\Symbols\\src"
+    ]
   }
 }]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity_installations\2022.3.10f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath E:\GSND_spt_p6 -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="E:\GSND_spt_p6" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity_installations\2022.3.10f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath E:\GSND_spt_p6 -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="E:\GSND_spt_p6" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,10 +143,15 @@
       <option name="presentableId" value="Default" />
       <updated>1698179326468</updated>
       <workItem from="1698179328741" duration="4000" />
+      <workItem from="1698340096393" duration="648000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
