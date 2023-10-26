@@ -13,6 +13,9 @@ public class FPInteractor : MonoBehaviour
     private Vector3 CurInspectObjOriginPos;
     private Quaternion CurInspectObjOriginRot;
 
+    public bool ReachPatient;
+    public Animator PatientAnim;
+
     private void Update()
     {
         DetectInteractableObj();
@@ -103,5 +106,32 @@ public class FPInteractor : MonoBehaviour
 
             CurInspectObjTrans = null;
         }
+    }
+
+    public void EnableReachPatient(bool enable)
+    {
+        Debug.Log("Enter Patient");
+        ReachPatient = enable;
+        if(enable)
+        {
+            EventMgr.OnInteract -= UseMedic;
+            EventMgr.OnInteract += UseMedic;
+        }
+        else
+        {
+            EventMgr.OnInteract -= UseMedic;
+        }
+    }
+
+    public void UseMedic()
+    {
+        if(ReachPatient && CurInspectObjTrans != null)
+        {
+            CurInspectObjTrans.gameObject.SetActive(false);
+            PatientAnim.SetTrigger("Idle");
+            EventMgr.OnInteract -= UseMedic;
+        }
+
+        Debug.Log("Use Medic");
     }
 }
